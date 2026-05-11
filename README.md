@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nei-somadhan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Nei Somadhan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nei-somadhan/) |
+| **Get License** | [Official Music Licensing for Nei Somadhan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nei-somadhan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ঘোর লাগা এই নিস্তব্ধতায় শুধু তোমার মায়া
+> আমার প্রতিটা নিশ্বাসে মিশে তোমার ছায়া
+> এই বুকের তৃষ্ণার আজ নেই কোনো সমাধান
+> তোমার চোখের গহিনেই আমার অবসান
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
