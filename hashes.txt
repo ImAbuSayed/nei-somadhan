@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nei Somadhan
+
+This log tracks the cryptographic history and versioning for the song **Nei Somadhan** (nei-somadhan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T06:18:32.676181 | `v1` | `156137ff34b5364f55475e7548c1219e8845369d8ec400ec799ca345ea605240` | `49b3dad7f52055dbb9d8637c50cebca2afdaadb04600f9772b752498017b7224` | `2026-05-11_nei-somadhan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

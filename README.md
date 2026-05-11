@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nei-somadhan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Nei Somadhan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nei-somadhan/) |
+| **Get License** | [Get a Licensing Quote for Nei Somadhan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nei-somadhan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `156137ff34b5364f55475e7548c1219e8845369d8ec400ec799ca345ea605240` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
